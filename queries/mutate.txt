@@ -1,0 +1,8 @@
+Given the Pytorch neural network image classifier below:
+
+{}
+
+Perform a mutation on the model that is a beneficial change to the architecture. For example, change the number of neurons in a layer, add dropout, introduce normalization.
+
+1. The mutation should introduce a small but potentially beneficial change to the architecture or parameters without drastically altering the original design. Possible mutations could include changing the number of neurons in a layer, adding a dropout layer, modifying the activation function, or introducing batch normalization.
+2. Write Pytorch code only

@@ -1,0 +1,11 @@
+Using PyTorch, I need to create a unique neural network model for image classification tasks. This model will serve as an individual in a genetic optimization process. The requirements for the model are as follows:
+
+1. The model should be suitable for classifying images from the CIFAR-10 dataset.
+2. It should consist of both convolutional and fully connected layers.
+3. The model must be relatively simple, with no more than 5 layers in total.
+4. It should include at least one dropout layer to prevent overfitting.
+5. The activation function for each layer should be specified, with a recommendation for either ReLU or LeakyReLU.
+6. The model should be defined as a class in PyTorch, extending nn.Module.
+7. Please ensure the model has a forward method that defines the forward pass.
+
+Based on these requirements, please provide the complete PyTorch code for this neural network model, including the class definition and all necessary components. The code should be ready to use for training and evaluating on the CIFAR-10 dataset.
